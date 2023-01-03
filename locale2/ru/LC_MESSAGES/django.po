@@ -1,0 +1,662 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-02 13:33+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: fabrics_config/settings.py:132
+msgid "Uzbek"
+msgstr ""
+
+#: fabrics_config/settings.py:133
+msgid "Russian"
+msgstr ""
+
+#: template/base.html:128
+msgid "Ваш браузер не поддерживает скрипты!"
+msgstr "Ваш браузер не поддерживает скрипты!"
+
+#: template/base.html:128
+msgid "Пожалуйста подключите в настройках браузера Javascript"
+msgstr "Пожалуйста подключите в настройках браузера Javascript"
+
+#: template/base.html:151 template/main/index.html:254
+msgid "Для оптовиков"
+msgstr "Для оптовиков"
+
+#: template/base.html:153
+msgid "Название фирмы"
+msgstr "Название фирмы"
+
+#: template/base.html:157
+msgid "ФИО"
+msgstr "ФИО"
+
+#: template/base.html:161
+#, fuzzy
+#| msgid "E-mail"
+msgid ">E-mail"
+msgstr "E-mail"
+
+#: template/base.html:165 template/card/checkout.html:33
+msgid "Телефон"
+msgstr "Телефон"
+
+#: template/base.html:169
+msgid "Сообщение"
+msgstr "Сообщение"
+
+#: template/base.html:176
+msgid "Отправить"
+msgstr "Отправить"
+
+#: template/base.html:188
+msgid "Оставьте это поле пустым"
+msgstr "Оставьте это поле пустым"
+
+#: template/base.html:211 template/base.html:465 template/base.html:706
+msgid "О компании"
+msgstr "О компании"
+
+#: template/base.html:213 template/base.html:466 template/base.html:577
+#: template/base.html:707
+msgid "Доставка"
+msgstr "Доставка"
+
+#: template/base.html:215 template/base.html:467 template/base.html:708
+msgid "Контакты"
+msgstr "Контакты"
+
+#: template/base.html:217 template/base.html:468 template/base.html:709
+msgid "Отзывы"
+msgstr "Отзывы"
+
+#: template/base.html:218 template/base.html:469 template/base.html:710
+msgid "Публичная оферта"
+msgstr "Публичная оферта"
+
+#: template/base.html:219 template/base.html:470 template/base.html:711
+msgid "Как оформить заказ?"
+msgstr "Как оформить заказ?"
+
+#: template/base.html:220 template/base.html:471
+msgid "Филиалы"
+msgstr "Филиалы"
+
+#: template/base.html:221 template/base.html:472
+msgid "Блог"
+msgstr "Блог"
+
+#: template/base.html:231
+msgid "My orders"
+msgstr "Мои заказы"
+
+#: template/base.html:236
+msgid "Logout"
+msgstr "Выйти"
+
+#: template/base.html:245
+msgid "Регистрация"
+msgstr "Регистрация"
+
+#: template/base.html:251
+msgid "Aвторизоваться"
+msgstr "Aвторизоваться"
+
+#: template/base.html:293 template/product/category-product.html:65
+#: template/product/menu-product.html:67
+#: template/product/subcategory-product.html:92
+msgid "Найти"
+msgstr "Найти"
+
+#: template/base.html:318
+#, fuzzy
+#| msgid "Служба поддержки"
+msgid "Служба поддержки:"
+msgstr "Служба поддержки"
+
+#: template/base.html:319 template/base.html:612
+msgid "Malumot yoq"
+msgstr ""
+
+#: template/base.html:519
+#, fuzzy
+#| msgid "Как оформить заказ?"
+msgid "Как мы работаем?"
+msgstr "Как оформить заказ?"
+
+#: template/base.html:533
+msgid "Заказ"
+msgstr "Заказ"
+
+#: template/base.html:534
+msgid "Добавьте в корзину все необходимые товары и оформите заказ"
+msgstr "Добавьте в корзину все необходимые товары и оформите заказ"
+
+#: template/base.html:539 template/base.html:561 template/base.html:583
+msgid "Подробнее"
+msgstr "Подробнее"
+
+#: template/base.html:555
+msgid "Оплата"
+msgstr "Оплата"
+
+#: template/base.html:556
+msgid "Укажите адрес доставки и выберите способ оплаты"
+msgstr "Укажите адрес доставки и выберите способ оплаты"
+
+#: template/base.html:578
+msgid "После подтверждения заказа и оплаты мы соберём Ваш заказ и отправим"
+msgstr "После подтверждения заказа и оплаты мы соберём Ваш заказ и отправим"
+
+#: template/base.html:601
+msgid "Каждый день c 09:00 до 20:00"
+msgstr "Каждый день c 09:00 до 20:00"
+
+#: template/base.html:602
+msgid "Рабочие дни!"
+msgstr "Рабочие дни!"
+
+#: template/base.html:613
+msgid "Бесплатная линия поддержки!"
+msgstr "Бесплатная линия поддержки!"
+
+#: template/base.html:624
+#, fuzzy
+#| msgid "Поддержка заказов"
+msgid "Поддержка заказов!"
+msgstr "Поддержка заказов"
+
+#: template/base.html:650
+#, fuzzy
+#| msgid "Подпишитесь на рассылку Новостей"
+msgid "Подпишитесь на рассылкуНовостей"
+msgstr "Подпишитесь на рассылку Новостей"
+
+#: template/base.html:661
+msgid "Подписаться"
+msgstr "Подписаться"
+
+#: template/base.html:713 template/product/productdetail.html:94
+msgid "Способы оплаты"
+msgstr "Способы оплаты"
+
+#: template/base.html:720
+#, fuzzy
+#| msgid "Контактная информация"
+msgid "Контактная информация:"
+msgstr "Контактная информация"
+
+#: template/base.html:721
+msgid "г.Ташкент, улица Беруний, дом №2."
+msgstr "г.Ташкент, улица Беруний, дом №2."
+
+#: template/base.html:721
+msgid " Malumot yoq"
+msgstr ""
+
+#: template/base.html:733
+msgid "Создание сайтов"
+msgstr "Создание сайтов"
+
+#: template/base.html:738
+msgid "Все права защищены"
+msgstr "Все права защищены"
+
+#: template/card/cart.html:12 template/card/checkout.html:12
+#: template/product/brand-product.html:15
+#: template/product/category-product.html:13
+#: template/product/menu-product.html:13 template/product/new-product.html:15
+#: template/product/productdetail.html:13
+#: template/product/productfilter.html:13 template/product/search.html:15
+#: template/product/select-search.html:13
+#: template/product/subcategory-product.html:13
+#: template/product/top-product.html:15
+msgid "Главная"
+msgstr "Главная"
+
+#: template/card/cart.html:13 template/card/cart.html:21
+msgid "Корзина"
+msgstr "Корзина"
+
+#: template/card/cart.html:32
+msgid "Maqola:"
+msgstr ""
+
+#: template/card/cart.html:35
+msgid "Oʻchirish"
+msgstr ""
+
+#: template/card/cart.html:71
+#, fuzzy
+#| msgid "Добавить в корзину"
+msgid " Очистить корзину"
+msgstr "Добавить в корзину"
+
+#: template/card/cart.html:75 template/card/checkout.html:56
+#, fuzzy
+#| msgid "Способы оплаты"
+msgid "Итого к оплате"
+msgstr "Способы оплаты"
+
+#: template/card/cart.html:77 template/card/checkout.html:50
+#: template/card/checkout.html:54 template/card/checkout.html:57
+#: template/product/productdetail.html:60
+msgid "сум"
+msgstr "сум"
+
+#: template/card/cart.html:85
+#, fuzzy
+#| msgid "Нет Информация"
+msgid "Перейти к оформлению"
+msgstr "Нет Информация"
+
+#: template/card/checkout.html:13 template/card/checkout.html:21
+#: template/card/checkout.html:63
+#, fuzzy
+#| msgid "Как оформить заказ"
+msgid "Оформить заказ"
+msgstr "Как оформить заказ"
+
+#: template/card/checkout.html:30
+msgid "Ф.И.О."
+msgstr "Ф.И.О."
+
+#: template/card/checkout.html:36
+#, fuzzy
+#| msgid "E-mail"
+msgid "Email"
+msgstr "E-mail"
+
+#: template/card/checkout.html:39
+msgid "Адрес"
+msgstr "Адрес"
+
+#: template/card/checkout.html:48
+msgid "Товаров"
+msgstr "Товаров"
+
+#: template/card/checkout.html:53
+#, fuzzy
+#| msgid "Доставка"
+msgid "Доставка:"
+msgstr "Доставка"
+
+#: template/card/checkout.html:69
+#, fuzzy
+#| msgid "Способы оплаты"
+msgid "Выберите способ оплаты:"
+msgstr "Способы оплаты"
+
+#: template/card/checkout.html:78
+#, fuzzy
+#| msgid "Способы оплаты"
+msgid ">Выберите способ доставки:"
+msgstr "Способы оплаты"
+
+#: template/card/myorder.html:42 template/card/orderdetaile.html:40
+msgid "Sizda buyurtmalar mavjud emas"
+msgstr "У вас нет заказов"
+
+#: template/main/index.html:60
+msgid "Доставка по Узбекистану в течении 2-хдней"
+msgstr "Доставка по Узбекистану в течении 2-хдней"
+
+#: template/main/index.html:68
+#, fuzzy
+#| msgid "Способы оплаты"
+msgid "Удобные способы оплаты"
+msgstr "Способы оплаты"
+
+#: template/main/index.html:76
+msgid "Только подлинные товары"
+msgstr "Только подлинные товары"
+
+#: template/main/index.html:87
+msgid "Best products"
+msgstr "Best products"
+
+#: template/main/index.html:88
+msgid "Товары Banafa.uz"
+msgstr "Товары Banafa.uz"
+
+#: template/main/index.html:91 template/main/index.html:103
+#: template/product/new-product.html:16 template/product/new-product.html:24
+#: template/product/top-product.html:16 template/product/top-product.html:24
+msgid "Новинки"
+msgstr "Новинки"
+
+#: template/main/index.html:93 template/main/index.html:167
+msgid "Популярные"
+msgstr "Популярные"
+
+#: template/main/index.html:94
+msgid "Распродажа"
+msgstr "Распродажа"
+
+#: template/main/index.html:106
+msgid "Все новинки"
+msgstr "Все новинки"
+
+#: template/main/index.html:128 template/product/brand-product.html:45
+#: template/product/category-product.html:88
+#: template/product/menu-product.html:90 template/product/new-product.html:46
+#: template/product/productdetail.html:145 template/product/search.html:45
+#: template/product/select-search.html:38
+#: template/product/subcategory-product.html:115
+#: template/product/top-product.html:46
+msgid "В наличии"
+msgstr "В наличии"
+
+#: template/main/index.html:134 template/main/index.html:194
+#: template/product/brand-product.html:51
+#: template/product/category-product.html:92
+#: template/product/menu-product.html:94 template/product/new-product.html:52
+#: template/product/productdetail.html:151 template/product/search.html:51
+#: template/product/select-search.html:42
+#: template/product/subcategory-product.html:119
+#: template/product/top-product.html:52
+msgid "Сум"
+msgstr "Сум"
+
+#: template/main/index.html:152 template/main/index.html:212
+#: template/product/category-product.html:112
+#: template/product/menu-product.html:114
+#: template/product/select-search.html:62
+#: template/product/subcategory-product.html:139
+msgid "Kechirasiz hozircha malumot kiritilmagan"
+msgstr "Извините, информация еще не введена"
+
+#: template/main/index.html:170
+msgid "Все популярные"
+msgstr "Все популярные"
+
+#: template/main/index.html:188
+#, fuzzy
+#| msgid "В наличии"
+msgid "В наличи"
+msgstr "В наличии"
+
+#: template/partials/categories.html:5
+msgid "Categorya tanlang"
+msgstr "Это чистый заказ"
+
+#: template/product/brand-product.html:16 template/product/search.html:16
+msgid "Бренды"
+msgstr "Бренды"
+
+#: template/product/category-product.html:14
+#: template/product/category-product.html:71
+#: template/product/menu-product.html:14 template/product/productfilter.html:14
+#: template/product/productfilter.html:34
+#: template/product/select-search.html:14
+#: template/product/subcategory-product.html:14
+#: template/product/subcategory-product.html:34
+#: template/product/subcategory-product.html:98
+msgid "Косметика по уходу за волосами"
+msgstr ""
+
+#: template/product/category-product.html:24
+#: template/product/menu-product.html:24 template/product/productfilter.html:24
+#: template/product/subcategory-product.html:24
+#, fuzzy
+#| msgid "Регистрация"
+msgid "Фильтрация"
+msgstr "Регистрация"
+
+#: template/product/category-product.html:34
+#: template/product/menu-product.html:37
+#, fuzzy
+#| msgid "Categorya tanlang"
+msgid "Menyu Categorya tanlang"
+msgstr "Это чистый заказ"
+
+#: template/product/productdetail.html:48
+msgid "Тональный крем DD Cream natural 01"
+msgstr ""
+
+#: template/product/productdetail.html:49
+#, fuzzy
+#| msgid "Производитель"
+msgid "Производитель:"
+msgstr "Производитель"
+
+#: template/product/productdetail.html:53
+#, fuzzy
+#| msgid "Артикул"
+msgid "Артикул:"
+msgstr "Артикул"
+
+#: template/product/productdetail.html:60
+#, fuzzy
+#| msgid "Цена"
+msgid "Цена:"
+msgstr "Цена"
+
+#: template/product/productdetail.html:70
+msgid "Добавить в корзину"
+msgstr "Добавить в корзину"
+
+#: template/product/productdetail.html:89
+msgid "Товар в наличии"
+msgstr "Товар в наличии"
+
+#: template/product/productdetail.html:90
+msgid "Доставка по Узбекистану"
+msgstr "Доставка по Узбекистану"
+
+#: template/product/productdetail.html:106
+msgid "Описание"
+msgstr "Описание"
+
+#: template/product/productdetail.html:107
+msgid "Применение"
+msgstr "Применение"
+
+#: template/product/productdetail.html:125
+#, fuzzy
+#| msgid "Также у нас предусмотрен"
+msgid "Также используют"
+msgstr "Также у нас предусмотрен"
+
+#: template/product/productfilter.html:33
+#: template/product/subcategory-product.html:33
+#, fuzzy
+#| msgid "Способы оплаты"
+msgid "Выберите направление"
+msgstr "Способы оплаты"
+
+#: template/product/productfilter.html:36
+#: template/product/subcategory-product.html:36
+msgid "Косметика по уходу за лицом"
+msgstr "Косметика по уходу за лицом"
+
+#: template/product/productfilter.html:37
+#: template/product/subcategory-product.html:37
+#, fuzzy
+#| msgid "Косметика по уходу за лицом"
+msgid "Косметика по уходу за телом"
+msgstr "Косметика по уходу за лицом"
+
+#: template/product/productfilter.html:38
+#: template/product/subcategory-product.html:38
+msgid "Лечебные средства"
+msgstr "Лечебные средства"
+
+#: template/product/productfilter.html:39
+#: template/product/subcategory-product.html:39
+msgid "Макияж"
+msgstr "Макияж"
+
+#: template/product/productfilter.html:40
+#: template/product/subcategory-product.html:40
+msgid "Парфюмерия"
+msgstr "Парфюмерия"
+
+#: template/product/productfilter.html:41
+#: template/product/subcategory-product.html:41
+msgid "Наборы"
+msgstr "Наборы"
+
+#: template/product/productfilter.html:47
+#: template/product/subcategory-product.html:47
+#, fuzzy
+#| msgid "Способы оплаты"
+msgid "Выберите из списка"
+msgstr "Способы оплаты"
+
+#: template/product/productfilter.html:48
+#: template/product/subcategory-product.html:48
+msgid "Шампунь"
+msgstr "Шампунь"
+
+#: template/product/productfilter.html:49
+#: template/product/subcategory-product.html:49
+msgid "Комплексное масло"
+msgstr "Комплексное масло"
+
+#: template/product/productfilter.html:50
+#: template/product/subcategory-product.html:50
+msgid "Кондиционер"
+msgstr "Кондиционер"
+
+#: template/product/productfilter.html:51
+#: template/product/subcategory-product.html:51
+msgid "Масло"
+msgstr "Масло"
+
+#: template/product/productfilter.html:52
+#: template/product/subcategory-product.html:52
+msgid "Маска"
+msgstr "Маска"
+
+#: template/product/productfilter.html:53
+#: template/product/subcategory-product.html:53
+msgid "Хна"
+msgstr "Хна"
+
+#: template/product/productfilter.html:54
+#: template/product/subcategory-product.html:54
+#, fuzzy
+#| msgid "Для оптовиков"
+msgid "Для бровей"
+msgstr "Для оптовиков"
+
+#: template/product/productfilter.html:55
+#: template/product/subcategory-product.html:55
+msgid "Загуститель волос"
+msgstr "Загуститель волос"
+
+#: template/product/productfilter.html:56
+#: template/product/subcategory-product.html:56
+msgid "Для бороды"
+msgstr "Для бороды"
+
+#: template/product/search.html:70
+msgid "Kechirasiz siz izlagan maxsulot mavjud emas"
+msgstr "Извините, товар, который вы ищете, недоступен"
+
+#: template/product/subcategory-product.html:62
+#, fuzzy
+#| msgid "Бренды"
+msgid "Все бренды"
+msgstr "Бренды"
+
+#~ msgid "Электронная почта"
+#~ msgstr "Электронная почта"
+
+#~ msgid "Нет Информация"
+#~ msgstr "Нет Информация"
+
+#~ msgid "Как оформить заказ"
+#~ msgstr "Как оформить заказ"
+
+#~ msgid "Статья"
+#~ msgstr "Статья"
+
+#~ msgid "Удалить"
+#~ msgstr "Удалить"
+
+#, fuzzy
+#~| msgid "Поддержка заказов"
+#~ msgid "У вас нет заказов"
+#~ msgstr "Поддержка заказов"
+
+#~ msgid ""
+#~ "Натуральная уходовая косметика, средств для ухода за лицом, кожей и "
+#~ "волосами"
+#~ msgstr ""
+#~ "Натуральная уходовая косметика, средств для ухода за лицом, кожей и "
+#~ "волосами"
+
+#~ msgid "В интернет-магазине косметики BANAFA.UZ вы можете купить"
+#~ msgstr "В интернет-магазине косметики BANAFA.UZ вы можете купить"
+
+#~ msgid "Доставим ваш заказ в Ташкенте день в день,"
+#~ msgstr "Доставим ваш заказ в Ташкенте день в день,"
+
+#~ msgid "Также у нас предусмотрен"
+#~ msgstr "Также у нас предусмотрен"
+
+#~ msgid "самовывоз"
+#~ msgstr "самовывоз"
+
+#~ msgid "Травяные капсулы для роста волос Тричуп, 60 кап, Trichup Capsules"
+#~ msgstr "Травяные капсулы для роста волос Тричуп, 60 кап, Trichup Capsules"
+
+#~ msgid "Сыворотка для сияния волос Trichup Nutrishine 60ml (New)"
+#~ msgstr "Сыворотка для сияния волос Trichup Nutrishine 60ml (New)"
+
+#~ msgid "Набор для бороды Greeko Man 3в1"
+#~ msgstr "Набор для бороды Greeko Man 3в1"
+
+#~ msgid "Крем для бороды Greeko Man Beard Cream 50ml"
+#~ msgstr "Крем для бороды Greeko Man Beard Cream 50ml"
+
+#~ msgid ""
+#~ "Средство для мытья бороды и лица Greeko Man Beard &amp; Face Wash 75ml"
+#~ msgstr ""
+#~ "Средство для мытья бороды и лица Greeko Man Beard &amp; Face Wash 75ml"
+
+#~ msgid "В наличии "
+#~ msgstr "В наличии "
+
+#~ msgid "Масло для бороды Greeko Man Beard Oil 50ml"
+#~ msgstr "Масло для бороды Greeko Man Beard Oil 50ml"
+
+#~ msgid "Шампунь Тричап Арган Trichup Argan 400мл"
+#~ msgstr "Шампунь Тричап Арган Trichup Argan 400мл"
+
+#~ msgid "Шампунь от выпадения волос Trichup Hair Fall Control 700ml"
+#~ msgstr "Шампунь от выпадения волос Trichup Hair Fall Control 700ml"
+
+#~ msgid "Лечебная маска для волос с Чёрным тмином Trichup 200ml"
+#~ msgstr "Лечебная маска для волос с Чёрным тмином Trichup 200ml"
+
+#~ msgid "Songi"
+#~ msgstr "Последний"
+
+#~ msgid "Koproq korish"
+#~ msgstr "Узнать больше"
+
+#~ msgid "Songi yangiliklar"
+#~ msgstr "Последние новости"
+
+#~ msgid "Load More"
+#~ msgstr "Загрузи больше"
